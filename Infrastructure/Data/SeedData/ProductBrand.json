@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "Name": "Nike"
+  },
+  {
+    "id": 2,
+    "Name": "Adidas"
+  },
+  {
+    "id": 3,
+    "Name": "Apple"
+  },
+  {
+    "id": 4,
+    "Name": "Samsung"
+  },
+  {
+    "id": 5,
+    "Name": "Sony"
+  },
+  {
+    "id": 6,
+    "Name": "Microsoft"
+  },
+  {
+    "id": 7,
+    "Name": "Gucci"
+  },
+  {
+    "id": 8,
+    "Name": "Louis Vuitton"
+  },
+  {
+    "id": 9,
+    "Name": "Chanel"
+  },
+  {
+    "id": 10,
+    "Name": "Zara"
+  },
+  {
+    "id": 11,
+    "Name": "H&M"
+  }
+]

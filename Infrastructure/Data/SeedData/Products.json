@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "T-Shirt",
+    "Description": "Comfortable cotton t-shirt",
+    "Price": 19.99,
+    "PictureUrl": "https://example.com/tshirt.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Jeans",
+    "Description": "Classic blue denim jeans",
+    "Price": 49.99,
+    "PictureUrl": "https://example.com/jeans.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Sneakers",
+    "Description": "Stylish and comfortable sneakers",
+    "Price": 79.99,
+    "PictureUrl": "https://example.com/sneakers.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Laptop",
+    "Description": "Powerful laptop for work and play",
+    "Price": 999.99,
+    "PictureUrl": "https://example.com/laptop.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Smartphone",
+    "Description": "Latest smartphone with advanced features",
+    "Price": 599.99,
+    "PictureUrl": "https://example.com/smartphone.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Headphones",
+    "Description": "Wireless headphones with excellent sound quality",
+    "Price": 149.99,
+    "PictureUrl": "https://example.com/headphones.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Watch",
+    "Description": "Stylish and functional watch for everyday wear",
+    "Price": 99.99,
+    "PictureUrl": "https://example.com/watch.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Sunglasses",
+    "Description": "Protect your eyes with stylish sunglasses",
+    "Price": 29.99,
+    "PictureUrl": "https://example.com/sunglasses.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Backpack",
+    "Description": "Spacious and durable backpack for everyday use",
+    "Price": 39.99,
+    "PictureUrl": "https://example.com/backpack.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Water bottle",
+    "Description": "Stay hydrated with a reusable water bottle",
+    "Price": 14.99,
+    "PictureUrl": "https://example.com/waterbottle.jpg",
+    "ProductTypeId": 11,
+    "ProductBrandId": 5
+  }
+]

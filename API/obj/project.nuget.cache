@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HS0b5uJHaSz+v/Ne+DSlQIPEKG9aeILAimLIxFIlrjsfKqlhrecNMqSHVwHFvfn+8GUQHR61VMEXkukp+8dicQ==",
+  "dgSpecHash": "Iw39PBZAHLn9oLN90DK6OHBK1VI674ho1c0c0Epk3VJnvlVWEd6Xq/c6B9F7aGurn/bBYHpSZdTrjVb2Bim8fQ==",
   "success": true,
-  "projectFilePath": "E:\\Gese\\Angular\\E_Commenrce_In_Angular\\API\\API.csproj",
+  "projectFilePath": "E:\\Gese\\Angular\\E_Commenrce_In_Angular\\Api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XOKA Pc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\XOKA Pc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
