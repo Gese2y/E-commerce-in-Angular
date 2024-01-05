@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Gese\\Angular\\E_Commenrce_In_Angular\\Core\\Core.csproj": {}
+    "E:\\Gese\\E-commerce-in-Angular\\Core\\Core.csproj": {}
   },
   "projects": {
-    "E:\\Gese\\Angular\\E_Commenrce_In_Angular\\Core\\Core.csproj": {
+    "E:\\Gese\\E-commerce-in-Angular\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Gese\\Angular\\E_Commenrce_In_Angular\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\Gese\\E-commerce-in-Angular\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\Gese\\Angular\\E_Commenrce_In_Angular\\Core\\Core.csproj",
+        "projectPath": "E:\\Gese\\E-commerce-in-Angular\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\XOKA Pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Gese\\Angular\\E_Commenrce_In_Angular\\Core\\obj\\",
+        "outputPath": "E:\\Gese\\E-commerce-in-Angular\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\XOKA Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "56twjYvSNfziUuH/dN2f6pi8J313IOYeOXNRViYo7GxBP3bttgxr7GrtRNTqooaaMYoNYvGPlI7bCfmKuj1xcg==",
+  "dgSpecHash": "AD8kwZUtQVfcZJ6IXk2WZxkjIaa5RMphyFyXNa5mRgoMcBdWFZ5xdp0zPsTXKAg9OqfvmxBnKGdwZsgXv+if2A==",
   "success": true,
-  "projectFilePath": "E:\\Gese\\Angular\\E_Commenrce_In_Angular\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "E:\\Gese\\E-commerce-in-Angular\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XOKA Pc\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "C:\\Users\\XOKA Pc\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
