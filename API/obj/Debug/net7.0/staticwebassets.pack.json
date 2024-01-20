@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\backpack.jpg",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\backpack.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\backpack.jpg"
     },
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\headphones.jpg",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\headphones.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\headphones.jpg"
     },
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\jeans.jpg",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\jeans.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\jeans.jpg"
     },
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\laptop.jpg",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\laptop.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\laptop.jpg"
     },
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\smartphone.png",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\smartphone.png",
       "PackagePath": "staticwebassets\\Images\\products\\smartphone.png"
     },
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\sneakers.jpg",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\sneakers.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\sneakers.jpg"
     },
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\sunglasses.jpg",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\sunglasses.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\sunglasses.jpg"
     },
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\tshirt.jpg",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\tshirt.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\tshirt.jpg"
     },
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\watch.jpg",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\watch.jpg",
       "PackagePath": "staticwebassets\\Images\\products\\watch.jpg"
     },
     {
-      "Id": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\waterbottle.webp",
+      "Id": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\waterbottle.webp",
       "PackagePath": "staticwebassets\\Images\\products\\waterbottle.webp"
     },
     {

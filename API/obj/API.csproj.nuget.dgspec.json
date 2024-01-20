@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Gese\\E-commerce-in-Angular\\api\\API.csproj": {}
+    "E:\\Gese\\E-commerce-in-Angular\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Gese\\E-commerce-in-Angular\\api\\API.csproj": {
+    "E:\\Gese\\E-commerce-in-Angular\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Gese\\E-commerce-in-Angular\\api\\API.csproj",
+        "projectUniqueName": "E:\\Gese\\E-commerce-in-Angular\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Gese\\E-commerce-in-Angular\\api\\API.csproj",
+        "projectPath": "E:\\Gese\\E-commerce-in-Angular\\API\\API.csproj",
         "packagesPath": "C:\\Users\\XOKA Pc\\.nuget\\packages\\",
-        "outputPath": "E:\\Gese\\E-commerce-in-Angular\\api\\obj\\",
+        "outputPath": "E:\\Gese\\E-commerce-in-Angular\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\XOKA Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

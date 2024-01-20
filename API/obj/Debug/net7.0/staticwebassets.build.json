@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xVYPpq5PJBBVeqZ52ih/qdbvoG1brwjpWMrs8DL1QEE=",
+  "Hash": "bb4Sm1A6JAZY6sKJPk3krMYq9CVvmLvdiXehCH+/0p8=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\backpack.jpg",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\backpack.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/backpack.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\backpack.jpg"
     },
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\headphones.jpg",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\headphones.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/headphones.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\headphones.jpg"
     },
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\jeans.jpg",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\jeans.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/jeans.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\jeans.jpg"
     },
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\laptop.jpg",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\laptop.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/laptop.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\laptop.jpg"
     },
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\smartphone.png",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\smartphone.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/smartphone.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\smartphone.png"
     },
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\sneakers.jpg",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\sneakers.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/sneakers.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sneakers.jpg"
     },
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\sunglasses.jpg",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\sunglasses.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/sunglasses.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\sunglasses.jpg"
     },
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\tshirt.jpg",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\tshirt.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/tshirt.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\tshirt.jpg"
     },
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\watch.jpg",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\watch.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/watch.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\products\\watch.jpg"
     },
     {
-      "Identity": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\Images\\products\\waterbottle.webp",
+      "Identity": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\Images\\products\\waterbottle.webp",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\api\\wwwroot\\",
+      "ContentRoot": "E:\\Gese\\E-commerce-in-Angular\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "Images/products/waterbottle.webp",
       "AssetKind": "All",
