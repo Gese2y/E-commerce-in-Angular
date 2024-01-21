@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ServicesService } from './services.service';
-import { IProduct } from './models/product';
-import { IPagination } from './models/pagination';
+import { IProduct } from './shared/models/product';
+import { IPagination } from './shared/models/pagination';
 
 @Component({
   selector: 'app-root',
@@ -10,21 +10,12 @@ import { IPagination } from './models/pagination';
 })
 export class AppComponent implements OnInit {
   title = 'Shop System'; 
-  product: IProduct[] = [];
-  constructor(public services: ServicesService){}
-
+ 
   ngOnInit(): void {
-    this.getProduct();
+    // this.getProduct();
 
 
   }
-  getProduct() {
-    this.services.getProduct()
-      .subscribe((arg: IPagination) => {
-        console.log('testttttt',arg);
-        this.product=arg.data
-      });
-    
-  }
+
   
 }

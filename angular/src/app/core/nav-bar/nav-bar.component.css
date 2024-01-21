@@ -10,3 +10,9 @@
     top: -10px;
     left: 32px;
 }
+/* Add this to your CSS or styles file */
+.custom-navbar-bg {
+    background-color: #a4b2bd; /* Blue color */
+    color: #fff; /* White text color */
+  }
+  
