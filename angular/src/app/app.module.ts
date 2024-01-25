@@ -7,6 +7,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NavBarComponent } from './core/nav-bar/nav-bar.component';
 import { CoreModule } from './core/core.module';
 import { ShopModule } from './shop/shop.module';
+import { HomeComponent } from './home/home.component';
+import { HomeModule } from './home/home.module';
 // import { SettingsComponent } from './services/settings/settings.component';
 // import { GiveAdminRoleComponent } from './services/give-admin-role/give-admin-role.component';
 
@@ -23,7 +25,8 @@ import { ShopModule } from './shop/shop.module';
     AppRoutingModule,
     BrowserAnimationsModule,
     CoreModule,
-    ShopModule
+    // ShopModule,
+    HomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,6 @@
+/* Add this style to your component's CSS or in a global stylesheet */
+.scrollable-list {
+    max-height: 200px; /* Set the maximum height based on your preference */
+    overflow-y: auto;
+  }
+  

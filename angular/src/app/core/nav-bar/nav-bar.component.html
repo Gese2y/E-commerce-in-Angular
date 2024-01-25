@@ -1,7 +1,7 @@
 <div class="custom-navbar-bg">
   <div class="d-flex flex-column  flex-md-row align-items-center justify-content-between p-3 px-md-4 mb-3 mb-4  border-bottom shadow-sm">
     <a href="/" class="d-flex align-items-center link-body-emphasis text-decoration-none">
-      <img src="/assets/logo3.png" alt="Logo" class="logo" style="max-height: 90px;">
+      <img src="/assets/logo3.png" alt="Logo" class="logo" style="max-height: 90px;" routerLink="/">
       <span class="fs-4">Shopping System</span>
     </a>
 
@@ -13,10 +13,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav text-uppercase" style="font-size: larger; font-weight: bold;">
           <li class="nav-item">
-            <a class="nav-link" href="#">Home</a>
+            <a class="nav-link" [routerLink]="['/']" routerLinkActive="active"[routerLinkActiveOptions]="{exact:true}">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Shop</a>
+            <a class="nav-link" routerLink="/shop" routerLinkActive="active">Shop</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>

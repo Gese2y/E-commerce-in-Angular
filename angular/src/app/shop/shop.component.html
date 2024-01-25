@@ -8,7 +8,7 @@
   </select>
 
   <h5 class="text-warning ml-3">Brands</h5>
-  <ul class="list-group my-3" >
+  <ul class="list-group my-3 scrollable-list" >
     <li class="list-group-item" 
     *ngFor="let data of brand"
     [class.active]="data.id === this.shopParams.brandId"
@@ -19,13 +19,13 @@
    
   </ul>
   <h5 class="text-warning ml-3">Types</h5>
-  <ul class="list-group my-3">
+  <ul class="list-group my-3 scrollable-list">
     <li class="list-group-item" *ngFor="let data of type"
-    [class.active]="data.id === this.shopParams.typeId"
-    [value]="data.id"
-    (click)="onTypeelected(data.id)">{{data.name}}</li>
-    
+      [class.active]="data.id === this.shopParams.typeId"
+      [value]="data.id"
+      (click)="onTypeelected(data.id)">{{data.name}}</li>
   </ul>
+  
 </section> 
 <section class="col-9">
   <div class="d-flex justify-content-between align-items-center pb-2">

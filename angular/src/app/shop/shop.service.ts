@@ -7,6 +7,7 @@ import { IType } from '../shared/models/type';
 import {catchError, map}  from 'rxjs/operators';
 import { throwError } from 'rxjs';
 import { ShopParams } from '../shared/models/shopParams';
+import { IProduct } from '../shared/models/product';
 // import { IBrand } from '../shared/models/brand';
 @Injectable({
   providedIn: 'root'
@@ -49,7 +50,9 @@ if(shopParams.search){
     })
   );
 }
-
+getProducts(id: number){
+return this.http.get<IProduct>(this.baseUrl+'products/'+id)
+}
   getBrand(){
     return this.http.get<IBrand[]>(this.baseUrl+'Products/brands');
   }
