@@ -28,5 +28,6 @@
     "strictTemplates": true,
     "strictDomEventTypes":false,
     "strictNullChecks": false,
+    "skipTemplateCodegen": true
   }
 }
